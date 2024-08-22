@@ -1,2 +1,3 @@
 # hts-webdev-sch
-a simple web development school
+22nd august lecture
+
